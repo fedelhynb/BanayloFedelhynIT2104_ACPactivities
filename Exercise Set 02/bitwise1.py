@@ -1,0 +1,5 @@
+print(str('12 | 25\n'))
+print(str('21 & 27\n'))
+print(str('8 ^ 7\n'))
+print(str('13 & 7\n'))
+print(str('13 | 7\n'))

@@ -1,5 +1,5 @@
 # SWIFTRENT: VEHICLE RENTAL SERVICES
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" width="900" height="550"> 
+<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" width="800" height="550"> 
 
 <br/><br/>
 
@@ -59,18 +59,30 @@
 
 ### II. Python Concepts Application in the Program.
 
+<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/5.png?raw=true" width="700" height="500">
 
+<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/2.png?raw=true" width="700" height="500">
+
+<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/4.png?raw=true" width="700" height="500">
 <br/><br/>
 
+<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/3.png?raw=true" width="700" height="500">
+
+<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/6.png?raw=true" width="700" height="500">
+<br/><br/>
+
+
+
+
 ### III. The chosen SDG and its integration into the project.
-__<p align="justify"> **SDG 11** : Sustainable cities and communities
+__<p align="justify"> SDG 11 : Sustainable cities and communities__
 - focuses on creating inclusive, resilient, and sustainable cities by:
 
-- Minimizing environmental impacts and promoting access to affordable housing, public transportation, and essential services.
-- Key goals: enhancing public areas, increasing disaster resilience, reducing pollution, and ensuring sustainable transportation options.
-- A vehicle rental system supports SDG 11 by promoting electric vehicles, reducing traffic, carbon emissions, and air pollution.
-- It provides affordable transportation, ensuring access for those unable to own private vehicles, fostering inclusive urbanization.
-- Integrating with public transport creates a multi-modal system, further reducing emissions and improving urban mobility.  
+<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	Minimizing environmental impacts and promoting access to affordable housing, public transportation, and essential services.
+<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Key goals: enhancing public areas, increasing disaster resilience, reducing pollution, and ensuring sustainable transportation options.
+<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - A vehicle rental system supports SDG 11 by promoting electric vehicles, reducing traffic, carbon emissions, and air pollution.
+<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - It provides affordable transportation, ensuring access for those unable to own private vehicles, fostering inclusive urbanization.
+<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Integrating with public transport creates a multi-modal system, further reducing emissions and improving urban mobility.  
 
 
 <br/><br/>

@@ -1,5 +1,5 @@
 # <p align="center"> SWIFTRENT: VEHICLE RENTAL SERVICES
-<p align="center" > <img width="800" height="550" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" > </p>
+<p align="center" > <img width="800" height="550" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" > </p>
 
 <br/><br/>
 ## Table of Contents

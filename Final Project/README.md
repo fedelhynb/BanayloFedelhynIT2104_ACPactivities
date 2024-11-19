@@ -36,10 +36,10 @@
 
 ### &nbsp; &nbsp; &nbsp; &nbsp;• How does the program works?
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - __Setup:__
-  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	Deletes existing database (vehicle_rental.db), creates a new one.
+  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •	Deletes existing database (vehicle_rental.db), creates a new one.
    
-  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	Creates vehicles and reservations tables in the database.
-  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	Inserts predefined vehicles into the vehicles table.
+  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •	Creates vehicles and reservations tables in the database.
+  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •	Inserts predefined vehicles into the vehicles table.
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - __User Options:__
   <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Dashboard Menu: User can choose from 7 options: 
@@ -53,7 +53,7 @@
   <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7. Exit: Exits the program.
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - __Error Handling:__
-  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Handles database errors with error messages.
+  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Handles database errors with error messages.
 
 <br/><br/>
 
@@ -63,7 +63,8 @@
 <br/><br/>
 
 ### III. The chosen SDG and its integration into the project.
-__<p align="justify"> **SDG 11** focuses on creating inclusive, resilient, and sustainable cities by:__
+__<p align="justify"> **SDG 11** : Sustainable cities and communities
+- focuses on creating inclusive, resilient, and sustainable cities by:
 
 - Minimizing environmental impacts and promoting access to affordable housing, public transportation, and essential services.
 - Key goals: enhancing public areas, increasing disaster resilience, reducing pollution, and ensuring sustainable transportation options.

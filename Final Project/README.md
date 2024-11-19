@@ -1,8 +1,7 @@
-# SWIFTRENT: VEHICLE RENTAL SERVICES
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" width="800" height="550"> 
+# <p align="center"> SWIFTRENT: VEHICLE RENTAL SERVICES
+<p align="center" > <img width="800" height="550" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" > </p>
 
 <br/><br/>
-
 ## Table of Contents
 - __I. Project Overview__
 - __II. Python Concepts Application in the Program.__
@@ -75,16 +74,13 @@
 
 
 ### III. The chosen SDG and its integration into the project.
-__<p align="justify"> SDG 11 : Sustainable cities and communities__
-- focuses on creating inclusive, resilient, and sustainable cities by:
+============================================================================================
+__<p align="center"> SDG 11 : Sustainable cities and communities__
 
-<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	Minimizing environmental impacts and promoting access to affordable housing, public transportation, and essential services.
-<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Key goals: enhancing public areas, increasing disaster resilience, reducing pollution, and ensuring sustainable transportation options.
-<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - A vehicle rental system supports SDG 11 by promoting electric vehicles, reducing traffic, carbon emissions, and air pollution.
-<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - It provides affordable transportation, ensuring access for those unable to own private vehicles, fostering inclusive urbanization.
-<p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Integrating with public transport creates a multi-modal system, further reducing emissions and improving urban mobility.  
-
-
+ <p align="center"> &nbsp; &nbsp; &nbsp; &nbsp;  SDG 11 aims to make cities and human settlements inclusive, safe, resilient, and sustainable. It focuses on improving urban spaces, reducing the environmental impact of cities, ensuring access to affordable and sustainable transportation, and promoting green infrastructure.
+ &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  The vehicle rental system contributes to SDG 11 by promoting sustainable transportation options. It reduces the number of private vehicles on the road, lowers traffic congestion, and helps decrease carbon emissions by encouraging shared, efficient mobility solutions. By offering easy access to eco-friendly vehicles, the system supports the creation of more sustainable, resilient, and efficient urban transportation networks, aligning with the goal of building cities that are inclusive and environmentally responsible.
+   
+============================================================================================
 <br/><br/>
 
 ### IV. Installation

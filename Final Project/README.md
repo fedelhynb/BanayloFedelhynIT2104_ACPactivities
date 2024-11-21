@@ -103,9 +103,12 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
   ```bash
   cd path/to/your/script/folder
   ```
-  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.	Run the script by typing the following command:
-   
-&nbsp; &nbsp; &nbsp; <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20192934.png?raw=true" width="600" height="100">  
+  <p align="justify"> &nbsp; 3.	Run the script by typing the following command:
+
+    ```bash
+  python vehicle_rental.py
+  ```
+    
 - __Step 5: Interaction with the System__
    &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify">  Once the script starts running, it will display the dashboard with a list of options:
 &nbsp; &nbsp; &nbsp; <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20193057.png?raw=true" width="650" height="300">

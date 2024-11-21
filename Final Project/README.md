@@ -99,8 +99,10 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
 - __Step 4: Run the Script__
   <p align="justify"> &nbsp; 1.	Open your command prompt/terminal.
   <p align="justify"> &nbsp; 2.	Navigate to the folder where vehicle_rental.py is saved. You can use the cd command to change directories. Example:
-&nbsp; &nbsp; &nbsp; <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20192915.png?raw=true" width="600" height="100"> 
-
+    
+  ```bash
+  cd path/to/your/script/folder
+  ```
   <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.	Run the script by typing the following command:
    
 &nbsp; &nbsp; &nbsp; <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20192934.png?raw=true" width="600" height="100">  

@@ -58,16 +58,15 @@
 
 ### II. Python Concepts Application in the Program.
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/5.png?raw=true" width="700" height="500">
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/5.png?raw=true" width="700" height="500"> </p>
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/2.png?raw=true" width="700" height="500">
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/3.png?raw=true" width="700" height="500"> </p> 
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/4.png?raw=true" width="700" height="500">
-<br/><br/>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/2.png?raw=true" width="700" height="500"> </p>
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/3.png?raw=true" width="700" height="500">
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/4.png?raw=true" width="700" height="500"> </p>
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/6.png?raw=true" width="700" height="500">
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/6.png?raw=true" width="700" height="500"> </p> 
 <br/><br/>
 
 

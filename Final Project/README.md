@@ -183,5 +183,12 @@ __<p align="center"> SEE ALL RESERVATIONS__
 ==========================================================================================
 
 __<p align="center"> THANK YOU FOR BEING WITH SWIFTRENT! SAFE TRAVELS!__
+<p align="center">For any inquiries or contributions, please contact:
+  
+__<p align="center"> 📧Email:__ customerservice@swiftrent.com
+
+__<p align="center"> 📞Phone:__ +111 222 3334
+
+__<p align="center" > GitHub Profile:__ [https://github.com/fedelhynb]
 
 ==========================================================================================

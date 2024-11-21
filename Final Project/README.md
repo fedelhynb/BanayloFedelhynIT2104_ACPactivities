@@ -151,3 +151,37 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
 
 - __Step 8: Exit the Program__
    &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify"> 	To exit the system, choose option 7 from the dashboard, and the system will display a thank-you message and safely close the database connection.
+
+### &nbsp; &nbsp; &nbsp; &nbsp;• Program's Sample Output
+__<p align="center"> DASHBOARD__
+<p align="center" > <img width="650" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/dashboard.png?raw=true" > </p>
+
+__<p align="center"> SEE COMPANY INFORMATION__
+<p align="center" > <img width="650" height="400" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_company_info.png?raw=true" > </p>
+
+__<p align="center"> MAKE RENT__
+<p float="left">
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/make_rent_1.png?raw=true" width="500" />
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/make_rent_2.png?raw=true" width="500" />
+></p>
+
+__<p align="center"> CANCEL RENT__
+<p align="center" > <img width="530" height="500" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/cancel_rent.png?raw=true" > </p>
+
+__<p align="center"> UPDATE RENT__
+<p float="left">
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/update_rent_1.png?raw=true" width="500" />
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/update_rent_2.png?raw=true" width="500" />
+></p>
+
+__<p align="center"> SEE ALL VEHICLES__
+<p align="center" > <img width="600" height="500" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_vehicles.png?raw=true" > </p>
+
+__<p align="center"> SEE ALL RESERVATIONS__
+<p align="center" > <img width="900" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_reservation.png?raw=true" > </p>
+
+==========================================================================================
+
+__<p align="center"> THANK YOU FOR BEING WITH SWIFTRENT! SAFE TRAVELS!__
+
+==========================================================================================

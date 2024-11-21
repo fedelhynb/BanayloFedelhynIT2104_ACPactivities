@@ -3,7 +3,7 @@
 
 <br/><br/>
 ## Table of Contents
-- __I. Project Overview__
+- __[I. Project Overview](#Project Overview)__
 - __II. Python Concepts Application in the Program.__
 - __III. The chosen SDG and its integration into the project.__
 - __IV. Installation__

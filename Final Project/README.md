@@ -3,10 +3,10 @@
 
 <br/><br/>
 ## Table of Contents
-- __I. Project Overview__
-- __II. Python Concepts Application in the Program.__
-- __III. The chosen SDG and its integration into the project.__
-- __IV. Installation__
+- __[I. Project Overview](#i-project-overview)__
+- __[II. Python Concepts Application in the Program](#ii-python-concepts-application-in-the-program)__
+- __[III. The chosen SDG and its integration into the project](#iii-the-chosen-sdg-and-its-integration-into-the-project)__
+- __[IV. Installation](iv-installation)__
 <br/><br/>
 
 ### I. Project Overview
@@ -58,16 +58,15 @@
 
 ### II. Python Concepts Application in the Program.
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/5.png?raw=true" width="700" height="500">
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/5.png?raw=true" width="700" height="500"> </p>
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/2.png?raw=true" width="700" height="500">
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/3.png?raw=true" width="700" height="500"> </p> 
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/4.png?raw=true" width="700" height="500">
-<br/><br/>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/2.png?raw=true" width="700" height="500"> </p>
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/3.png?raw=true" width="700" height="500">
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/4.png?raw=true" width="700" height="500"> </p>
 
-<img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/6.png?raw=true" width="700" height="500">
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/6.png?raw=true" width="700" height="500"> </p> 
 <br/><br/>
 
 
@@ -99,11 +98,16 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
 - __Step 4: Run the Script__
   <p align="justify"> &nbsp; 1.	Open your command prompt/terminal.
   <p align="justify"> &nbsp; 2.	Navigate to the folder where vehicle_rental.py is saved. You can use the cd command to change directories. Example:
-&nbsp; &nbsp; &nbsp; <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20192915.png?raw=true" width="600" height="100"> 
+    
+  ```bash
+  cd path/to/your/script/folder
+  ```
+  <p align="justify"> &nbsp; 3.	Run the script by typing the following command:
 
-  <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.	Run the script by typing the following command:
-   
-&nbsp; &nbsp; &nbsp; <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20192934.png?raw=true" width="600" height="100">  
+    ```bash
+  python vehicle_rental.py
+  ```
+    
 - __Step 5: Interaction with the System__
    &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify">  Once the script starts running, it will display the dashboard with a list of options:
 &nbsp; &nbsp; &nbsp; <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20193057.png?raw=true" width="650" height="300">
@@ -151,3 +155,44 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
 
 - __Step 8: Exit the Program__
    &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify"> 	To exit the system, choose option 7 from the dashboard, and the system will display a thank-you message and safely close the database connection.
+
+### &nbsp; &nbsp; &nbsp; &nbsp;• Program's Sample Output
+__<p align="center"> DASHBOARD__
+<p align="center" > <img width="650" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/dashboard.png?raw=true" > </p>
+
+__<p align="center"> SEE COMPANY INFORMATION__
+<p align="center" > <img width="650" height="400" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_company_info.png?raw=true" > </p>
+
+__<p align="center"> MAKE RENT__
+<p float="left">
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/make_rent_1.png?raw=true" width="500" />
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/make_rent_2.png?raw=true" width="500" />
+></p>
+
+__<p align="center"> CANCEL RENT__
+<p align="center" > <img width="530" height="500" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/cancel_rent.png?raw=true" > </p>
+
+__<p align="center"> UPDATE RENT__
+<p float="left">
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/update_rent_1.png?raw=true" width="500" />
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/update_rent_2.png?raw=true" width="500" />
+></p>
+
+__<p align="center"> SEE ALL VEHICLES__
+<p align="center" > <img width="600" height="500" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_vehicles.png?raw=true" > </p>
+
+__<p align="center"> SEE ALL RESERVATIONS__
+<p align="center" > <img width="900" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_reservation.png?raw=true" > </p>
+
+==========================================================================================
+
+__<p align="center"> THANK YOU FOR BEING WITH SWIFTRENT! SAFE TRAVELS!__
+<p align="center">For any inquiries or contributions, please contact:
+  
+__<p align="center"> 📧Email:__ customerservice@swiftrent.com
+
+__<p align="center"> 📞Phone:__ +111 222 3334
+
+__<p align="center" > GitHub Profile:__ [https://github.com/fedelhynb]
+
+==========================================================================================

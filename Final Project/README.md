@@ -1,14 +1,15 @@
 # <p align="center"> SWIFTRENT: VEHICLE RENTAL SERVICES
 <p align="center" > <img width="800" height="550" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" > </p>
 
+
 <br/><br/>
 ## Table of Contents
 - __[I. Project Overview](#i-project-overview)__
 - __[II. Python Concepts Application in the Program](#ii-python-concepts-application-in-the-program)__
 - __[III. The chosen SDG and its integration into the project](#iii-the-chosen-sdg-and-its-integration-into-the-project)__
 - __[IV. Installation](iv-installation)__
+  
 <br/><br/>
-
 ### I. Project Overview
 <p align="justify"> SwiftRent is a vehicle rental management system implemented using the Python language as a basis for the implementation of Object-Oriented Product (OOP) for the construction of a rational, expandable, and sustainable computer enterprise. The system enables customers to only to hire vehicles, monitor bookings and transactions with charges while the back-end enables administrators to monitor the vehicles, and particularly manage the transactions from the clients. A customer can view available cars select the car they want and book it, update it and even cancel it with the system automatically calculating the rental duration and charges. Admins have the ability to add, update, or remove vehicles from the system and monitor vehicle availability. It also incorporates with a database like MySQL or SQLite to keep track of users’ information, vehicles’ information, rentals and payment as well as history to provide persistence. SwiftRent effectively handles all aspects of vehicle rental management, offering a seamless experience for both customers and administrators while maintaining a robust and secure backend.
 
@@ -156,9 +157,11 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
 - __Step 8: Exit the Program__
    &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify"> 	To exit the system, choose option 7 from the dashboard, and the system will display a thank-you message and safely close the database connection.
 
+<br/><br/>
+============================================================================================
 ### &nbsp; &nbsp; &nbsp; &nbsp;• Program's Sample Output
 __<p align="center"> DASHBOARD__
-<p align="center" > <img width="650" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/dashboard.png?raw=true" > </p>
+<p align="center" > <img width="700" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/dashboard.png?raw=true" > </p>
 
 __<p align="center"> SEE COMPANY INFORMATION__
 <p align="center" > <img width="650" height="400" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_company_info.png?raw=true" > </p>
@@ -183,6 +186,8 @@ __<p align="center"> SEE ALL VEHICLES__
 
 __<p align="center"> SEE ALL RESERVATIONS__
 <p align="center" > <img width="900" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_reservation.png?raw=true" > </p>
+
+<br/><br/>
 
 ==========================================================================================
 

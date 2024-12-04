@@ -1,16 +1,19 @@
 # <p align="center"> SWIFTRENT: VEHICLE RENTAL SERVICES
-<p align="center" > <img width="800" height="550" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" > </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Green%20Floral%20Coming%20Soon%20Poster.png?raw=true" style="max-width: 100%; height: auto;" > </p>
 
 
 <br/><br/>
 ## Table of Contents
 - __[I. Project Overview](#i-project-overview)__
+     - Key Features
+     - How the Program Works
 - __[II. Python Concepts Application in the Program](#ii-python-concepts-application-in-the-program)__
 - __[III. The chosen SDG and its integration into the project](#iii-the-chosen-sdg-and-its-integration-into-the-project)__
-- __[IV. Installation](iv-installation)__
+- __[IV. Installation](#iv-installation)__
+- __[Program's Sample Output](#program's-sample-output)__
   
 <br/><br/>
-### I. Project Overview
+## I. Project Overview
 <p align="justify"> SwiftRent is a vehicle rental management system implemented using the Python language as a basis for the implementation of Object-Oriented Product (OOP) for the construction of a rational, expandable, and sustainable computer enterprise. The system enables customers to only to hire vehicles, monitor bookings and transactions with charges while the back-end enables administrators to monitor the vehicles, and particularly manage the transactions from the clients. A customer can view available cars select the car they want and book it, update it and even cancel it with the system automatically calculating the rental duration and charges. Admins have the ability to add, update, or remove vehicles from the system and monitor vehicle availability. It also incorporates with a database like MySQL or SQLite to keep track of users’ information, vehicles’ information, rentals and payment as well as history to provide persistence. SwiftRent effectively handles all aspects of vehicle rental management, offering a seamless experience for both customers and administrators while maintaining a robust and secure backend.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp;• Key Features
@@ -57,23 +60,29 @@
 
 <br/><br/>
 
-### II. Python Concepts Application in the Program.
+## II. Python Concepts Application in the Program.
 
-<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/5.png?raw=true" width="700" height="500"> </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/OOP.png?raw=true" style="max-width: 100%; height: auto;"> </p>
 
-<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/3.png?raw=true" width="700" height="500"> </p> 
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/database%20interaction.png?raw=true" style="max-width: 100%; height: auto;"> </p> 
 
-<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/2.png?raw=true" width="700" height="500"> </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/input-output.png?raw=true" style="max-width: 100%; height: auto;"> </p>
 
-<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/4.png?raw=true" width="700" height="500"> </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/conditionals%20and%20loops.png?raw=true" style="max-width: 100%; height: auto;"> </p>
 
-<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/6.png?raw=true" width="700" height="500"> </p> 
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/datetime%20manipulation.png?raw=true" style="max-width: 100%; height: auto;"> </p> 
+
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/string%20formatting.png?raw=true" style="max-width: 100%; height: auto;"> </p> 
+
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/error%20handling.png?raw=true" style="max-width: 100%; height: auto;"> </p> 
+
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/functions%20mod;%20library%20used.png?raw=true" style="max-width: 100%; height: auto;"> </p> 
 <br/><br/>
 
 
 
 
-### III. The chosen SDG and its integration into the project.
+## III. The chosen SDG and its integration into the project.
 ============================================================================================
 __<p align="center"> SDG 11 : Sustainable cities and communities__
 
@@ -83,7 +92,7 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
 ============================================================================================
 <br/><br/>
 
-### IV. Installation
+## IV. Installation
 &nbsp; __Instructions for running the program__
 <br/><br/>
 - __Step 1: Install Python and Required Libraries__
@@ -111,11 +120,13 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
     
 - __Step 5: Interaction with the System__
    &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify">  Once the script starts running, it will display the dashboard with a list of options:
-&nbsp; &nbsp; &nbsp; <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20193057.png?raw=true" width="650" height="300">
+  
+  <p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/Screenshot%202024-11-13%20193057.png?raw=true"  style="max-width: 100%; height: auto; > </p>
+
    &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify">  You will be prompted to enter a choice. Here's what each option will do:
    __<p align="justify"> &nbsp; 1. See Company Information__
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •	This option will display company details and contact information.
-    
+
    __<p align="justify"> &nbsp; 2. Make your Rent__
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	This option allows you to make a reservation for a vehicle.
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	The system will ask you to provide personal details such as your name, contact number, and email.
@@ -128,18 +139,18 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	You will need to enter the client name associated with the reservation.
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	The system will ask for confirmation, then cancel the reservation and update vehicle availability.
 
-    __<p align="justify"> &nbsp; 4. Update your Rent__
+   __<p align="justify"> &nbsp; 4. Update your Rent__
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	This option allows you to modify an existing reservation.
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	You can update the pickup and return time or change the vehicle.
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -	The system will show available vehicles and compute any additional fees based on changes.
 
-    __<p align="justify"> &nbsp; 5. View Available Vehicles__
+   __<p align="justify"> &nbsp; 5. View Available Vehicles__
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •	This option displays a list of all available vehicles, their type, model, plate number, daily rate, and availability status.
 
-    __<p align="justify"> &nbsp; 6. See all Reservations__
+   __<p align="justify"> &nbsp; 6. See all Reservations__
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •	This option shows a list of all reservations made, with client details, vehicle information, and rental fee.
 
-    __<p align="justify"> &nbsp; 7. Exit__
+   __<p align="justify"> &nbsp; 7. Exit__
    <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •	This option will exit the program and close the database connection.
 
 - __Step 6: Interaction Details__
@@ -159,12 +170,12 @@ __<p align="center"> SDG 11 : Sustainable cities and communities__
 
 <br/><br/>
 ============================================================================================
-### &nbsp; &nbsp; &nbsp; &nbsp;• Program's Sample Output
+## Program's Sample Output
 __<p align="center"> DASHBOARD__
-<p align="center" > <img width="700" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/dashboard.png?raw=true" > </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/dashboard.png?raw=true"  style="max-width: 100%; height: auto; > </p>
 
 __<p align="center"> SEE COMPANY INFORMATION__
-<p align="center" > <img width="650" height="400" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_company_info.png?raw=true" > </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_company_info.png?raw=true"  style="max-width: 100%; height: auto; > </p>
 
 __<p align="center"> MAKE RENT__
 <p float="left">
@@ -173,7 +184,7 @@ __<p align="center"> MAKE RENT__
 ></p>
 
 __<p align="center"> CANCEL RENT__
-<p align="center" > <img width="530" height="500" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/cancel_rent.png?raw=true" > </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/cancel_rent.png?raw=true"  style="max-width: 100%; height: auto; > </p>
 
 __<p align="center"> UPDATE RENT__
 <p float="left">
@@ -182,10 +193,10 @@ __<p align="center"> UPDATE RENT__
 ></p>
 
 __<p align="center"> SEE ALL VEHICLES__
-<p align="center" > <img width="600" height="500" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_vehicles.png?raw=true" > </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_vehicles.png?raw=true"  style="max-width: 100%; height: auto; > </p>
 
 __<p align="center"> SEE ALL RESERVATIONS__
-<p align="center" > <img width="900" height="300" src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_reservation.png?raw=true" > </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_reservation.png?raw=true"  style="max-width: 100%; height: auto; > </p>
 
 <br/><br/>
 

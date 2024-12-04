@@ -10,7 +10,7 @@
 - __[II. Python Concepts Application in the Program](#ii-python-concepts-application-in-the-program)__
 - __[III. The chosen SDG and its integration into the project](#iii-the-chosen-sdg-and-its-integration-into-the-project)__
 - __[IV. Installation](#iv-installation)__
-- __[Program's Sample Output](##-program's-sample-output)__
+- __[Program's Sample Output](#programs-sample-output)__
   
 <br/><br/>
 ## I. Project Overview

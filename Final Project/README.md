@@ -84,10 +84,16 @@
 
 ## III. The chosen SDG and its integration into the project.
 ============================================================================================
+__<p align="center"> SDG 9: Industry, Innovation, and Infrastructure__
+  <p align="center"> &nbsp; &nbsp; &nbsp; &nbsp;  By providing access to a diverse range of vehicles that support transportation needs without the need for individual ownership. This promotes innovation in mobility solutions, reducing the strain on infrastructure and encouraging sustainable urban development. The system can also integrate modern technologies, such as electric or hybrid vehicles, enhancing the efficiency and environmental sustainability of transportation networks.
+
 __<p align="center"> SDG 11 : Sustainable cities and communities__
 
  <p align="center"> &nbsp; &nbsp; &nbsp; &nbsp;  SDG 11 aims to make cities and human settlements inclusive, safe, resilient, and sustainable. It focuses on improving urban spaces, reducing the environmental impact of cities, ensuring access to affordable and sustainable transportation, and promoting green infrastructure.
  &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  The vehicle rental system contributes to SDG 11 by promoting sustainable transportation options. It reduces the number of private vehicles on the road, lowers traffic congestion, and helps decrease carbon emissions by encouraging shared, efficient mobility solutions. By offering easy access to eco-friendly vehicles, the system supports the creation of more sustainable, resilient, and efficient urban transportation networks, aligning with the goal of building cities that are inclusive and environmentally responsible.
+      
+__<p align="center"> __<p align="center"> SDG 12: Responsible Consumption and Production____
+ &nbsp; &nbsp; &nbsp; &nbsp; <p align="justify"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  SwiftRent supports responsible consumption by promoting shared use of vehicles, which reduces the overall number of vehicles on the road. This leads to lower resource consumption, less waste generation, and reduced emissions from manufacturing and vehicle disposal. It aligns with circular economy principles by encouraging the reuse and efficient use of resources, thus minimizing environmental impact.
    
 ============================================================================================
 <br/><br/>
@@ -179,8 +185,8 @@ __<p align="center"> SEE COMPANY INFORMATION__
 
 __<p align="center"> MAKE RENT__
 <p float="left">
-  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/make_rent_1.png?raw=true" width="500" />
-  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/make_rent_2.png?raw=true" width="500" />
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/makerent_1.png?raw=true" width="500" />
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/makerent_2.png?raw=true" width="500" />
 ></p>
 
 __<p align="center"> CANCEL RENT__
@@ -196,7 +202,7 @@ __<p align="center"> SEE ALL VEHICLES__
 <p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_vehicles.png?raw=true"  style="max-width: 100%; height: auto; > </p>
 
 __<p align="center"> SEE ALL RESERVATIONS__
-<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_reservation.png?raw=true"  style="max-width: 100%; height: auto; > </p>
+<p align="center" > <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/see_all_reservations.png?raw=true"  style="max-width: 100%; height: auto; > </p>
 
 <br/><br/>
 

@@ -194,8 +194,8 @@ __<p align="center"> CANCEL RENT__
 
 __<p align="center"> UPDATE RENT__
 <p float="left">
-  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/update_rent_1.png?raw=true" width="500" />
-  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/update_rent_2.png?raw=true" width="500" />
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/updaterent_1.png?raw=true" width="500" />
+  <img src="https://github.com/fedelhynb/BanayloFedelhynIT2104_ACPactivities/blob/main/Final%20Project/pictures/updaterent_2.png?raw=true" width="500" />
 ></p>
 
 __<p align="center"> SEE ALL VEHICLES__
